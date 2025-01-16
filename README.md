@@ -44,7 +44,7 @@ pip install pandas seaborn matplotlib numpy
 
 ## How to Run
 1. Ensure you have all the required libraries installed.
-2. Place `movies.csv` and `Function.py` in the same directory as `movie_analysis.py`.
+2. Place `movies.csv` and `Function.py` in the same directory as `Movie_Data_Analysis.py`.
 3. Run the script.
 
 ## 🔮 Future Work
